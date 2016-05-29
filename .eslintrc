@@ -1,0 +1,6 @@
+{
+  "parser": "babel-eslint",
+  "rules": {
+    "generator-star-spacing": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "min-reproduce",
+  "version": "1.0.0",
+  "description": "Minimal reproduce for eslint/generator-star-spacing bug",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js"
+  },
+  "author": "Doron Pearl",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "babel-eslint": "^6.0.4",
+    "eslint": "^2.11.0"
+  }
+}
